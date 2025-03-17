@@ -19,9 +19,6 @@
 - LinkedIn: [www.linkedin.com/in/supun-ranawaka-6ba488281]
 - Email: [spranawaka98@gmail.com]
 
-## 😄 Pronouns
-- He/Him
-
 ## ⚡ Fun Fact
 - I love building AI animations and merging IoT with smart automation!
 
