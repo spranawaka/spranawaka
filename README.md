@@ -111,41 +111,6 @@ const supun = {
 
 ---
 
-## 💡 Featured Projects
-
-<div align="center">
-
-[![IoT Dashboard](https://github-readme-stats.vercel.app/api/pin/?username=spranawaka&repo=iot-dashboard&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF)](https://github.com/spranawaka)
-[![Smart Home](https://github-readme-stats.vercel.app/api/pin/?username=spranawaka&repo=smart-home&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF)](https://github.com/spranawaka)
-
-</div>
-
----
-
-## 🎯 Current Projects
-
-```typescript
-const currentProjects = [
-  {
-    name: "Smart IoT Monitoring System",
-    tech: ["ESP32", "React", "Firebase"],
-    status: "🚀 In Progress"
-  },
-  {
-    name: "AI-Powered Content Generator",
-    tech: ["Python", "TensorFlow", "React Native"],
-    status: "🎨 Planning"
-  },
-  {
-    name: "Real-time Dashboard Analytics",
-    tech: ["React", "Node.js", "MongoDB"],
-    status: "✨ Active Development"
-  }
-];
-```
-
----
-
 ## 🎨 Fun Fact
 
 > **I love building AI animations and merging IoT with smart automation!** 🤖✨
