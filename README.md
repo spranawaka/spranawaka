@@ -78,39 +78,6 @@ const supun = {
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=spranawaka&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spranawaka&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF" alt="Top Languages" height="170"/>
-
-</div>
-
-<div align="center">
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=spranawaka&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak" />
-
-</div>
-
-<div align="center">
-  
-  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=spranawaka&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-  ![trophy](https://github-profile-trophy.vercel.app/?username=spranawaka&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)
-
-</div>
-
----
-
 ## 🎨 Fun Fact
 
 > **I love building AI animations and merging IoT with smart automation!** 🤖✨
