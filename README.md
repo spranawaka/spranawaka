@@ -90,8 +90,6 @@ const supun = {
   
   ### 💬 Let's Connect and Build Something Amazing Together!
   
-  ![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
-  
   **Thanks for visiting! Happy coding! 🚀**
   
   ![Profile Views](https://komarev.com/ghpvc/?username=spranawaka&color=00D9FF&style=for-the-badge)
